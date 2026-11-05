@@ -1,0 +1,15 @@
+
+.button{
+    background-color: rgb(31, 82, 192);
+    color: white;
+    padding: 8px 28px;
+    margin: 4px;
+    text-align: center;
+    font-size: 22px;
+    border-radius: 8px;
+}
+div{
+    text-align: center;
+    background-color: azure;
+    padding: 4px;
+}
